@@ -1,5 +1,3 @@
-#Voici un exemple de fichier README.md pour votre projet "GuessWhat" en React:
-
 # GuessWhat - Jeu de devinette de mots en React
 
 GuessWhat est un jeu de devinette de mots simple réalisé en utilisant React. Le jeu consiste à deviner un mot en saisissant une lettre à la fois. Chaque fois qu'une lettre est devinée correctement, elle est affichée dans le mot. Le joueur gagne s'il parvient à deviner le mot avant d'avoir fait un nombre maximum d'erreurs.
@@ -47,7 +45,4 @@ TAMWA KAMGA BRANDON DUCLERC (BrandonIscoding)
 
 ## License
 
-Ce projet est sous license MIT. Voir le fichier LICENSE.md pour plus de détails.
-```
-
-N'oubliez pas de personnaliser ce fichier en ajoutant des informations spécifiques à votre projet, telles que des captures d'écran, des instructions d'installation et des fonctionnalités uniques que vous avez implémentées.
+Ce projet est opensource, et ouverte a toute contribution!!!
