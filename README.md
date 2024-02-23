@@ -1,4 +1,4 @@
-# GuessWhat - Jeu de devinette de mots en React
+# guess-the-words - Jeu de devinette de mots en React
 
 GuessWhat est un jeu de devinette de mots simple réalisé en utilisant React. Le jeu consiste à deviner un mot en saisissant une lettre à la fois. Chaque fois qu'une lettre est devinée correctement, elle est affichée dans le mot. Le joueur gagne s'il parvient à deviner le mot avant d'avoir fait un nombre maximum d'erreurs.
 
@@ -15,12 +15,12 @@ Ce projet a été créé par TAMWA KAMGA BRANDON DUCLERC, également connu sous 
 
 1. Cloner le dépôt GitHub:
    ```bash
-   git clone https://github.com/BrandonIscoding/GuessWhat.git
+   git clone https://github.com/BrandonIscoding/guess-the-words.git
    ```
 
 2. Installer les dépendances:
    ```bash
-   cd GuessWhat
+   cd guess-the-words
    npm install
    ```
 
