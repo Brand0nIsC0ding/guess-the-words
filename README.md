@@ -1,6 +1,5 @@
-Voici un exemple de fichier README.md pour votre projet "GuessWhat" en React:
+#Voici un exemple de fichier README.md pour votre projet "GuessWhat" en React:
 
-```markdown
 # GuessWhat - Jeu de devinette de mots en React
 
 GuessWhat est un jeu de devinette de mots simple réalisé en utilisant React. Le jeu consiste à deviner un mot en saisissant une lettre à la fois. Chaque fois qu'une lettre est devinée correctement, elle est affichée dans le mot. Le joueur gagne s'il parvient à deviner le mot avant d'avoir fait un nombre maximum d'erreurs.
