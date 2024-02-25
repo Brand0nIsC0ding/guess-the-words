@@ -2,8 +2,8 @@
 
 body{
 	height: 100vh;
-	background: rgb(204,146,255);
-	background: linear-gradient(0deg, rgba(204,146,255,1) 0%, rgba(255,51,163,0.4164040616246498) 100%);
+	background: rgb(146, 193, 255);
+	background: linear-gradient(0deg, rgb(146, 215, 255) 0%, rgba(255,51,163,0.4164040616246498) 100%);
 	text-align: center;
 
 }
@@ -153,3 +153,41 @@ h1{
 #keyboard .used{
 	opacity: 0.3;
 }
+
+footer {
+	background-color: transaparant;
+	color: rgb(44, 40, 40);
+	padding: 20px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+  }
+  
+  .footer-links {
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+  }
+  
+  .footer-link {
+	margin: 0 10px;
+  }
+  
+  .footer-link a {
+	color: white;
+	text-decoration: none;
+  }
+
+  .footer-link a {
+	color: white;
+	text-decoration: none;
+	padding: 5px 10px;
+	transition: background-color 0.3s;
+  }
+  
+  .footer-link a:hover {
+	background-color: rgba(255, 255, 255, 0.2);
+  }
+  
+  
