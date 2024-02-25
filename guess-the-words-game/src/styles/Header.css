@@ -1,0 +1,44 @@
+/* Header.css */
+header {
+    background-color: #000; /* Couleur de fond gris foncé */
+    color: white; /* Couleur du texte blanc */
+    text-align: center; /* Centre le texte horizontalement */
+    padding: 1rem 0; /* Ajoute un espace de 1rem en haut et en bas du header */
+  }
+  
+  /* Style du contenu du header */
+  .header__content {
+    max-width: 800px; /* Largeur maximale du contenu */
+    margin: 0 auto; /* Centre le contenu horizontalement */
+  }
+  
+  /* Style du titre du header */
+  .header__title {
+    font-size: 2rem; /* Taille de la police 2rem */
+    font-weight: bold; /* Police en gras */
+    color: #333; /* Couleur du texte gris foncé */
+  }
+  
+  /* Style du texte défilant du header */
+  .header__scroll-text {
+    overflow: hidden; /* Cache le contenu débordant */
+    height: 40px; /* Hauteur fixe de 40px */
+  }
+  
+  /* Style des éléments span dans le texte défilant */
+  .header__scroll-text span {
+    display: block; /* Affiche en tant que bloc */
+    height: 40px; /* Hauteur fixe de 40px */
+    line-height: 40px; /* Hauteur de ligne égale à la hauteur du conteneur */
+    animation: scroll 10s linear infinite; /* Animation de défilement */
+  }
+  
+  /* Animation de défilement */
+  @keyframes scroll {
+    0% {
+      transform: translateY(0); /* Déplacement initial */
+    }
+    100% {
+      transform: translateY(-120px); /* Déplacement final */
+    }
+  }
