@@ -37,7 +37,9 @@ Ce projet a été créé par TAMWA KAMGA BRANDON DUCLERC, également connu sous 
 
 ## Captures d'écran
 
-![Capture d'écran du jeu GuessWhat](React-App1.png)
+![Capture d'écran 1 du jeu GuessWhat](React-App1.png)
+![Capture d'écran 2 du jeu GuessWhat](React-App2.png)
+![Capture d'écran 3 du jeu GuessWhat](React-App3.png)
 
 ## Auteur
 
