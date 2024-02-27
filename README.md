@@ -1,50 +1,50 @@
-# guess-the-words - Jeu de devinette de mots en React
+# guess-the-words - Word guessing game in React
 
-GuessWhat est un jeu de devinette de mots simple réalisé en utilisant React. Le jeu consiste à deviner un mot en saisissant une lettre à la fois. Chaque fois qu'une lettre est devinée correctement, elle est affichée dans le mot. Le joueur gagne s'il parvient à deviner le mot avant d'avoir fait un nombre maximum d'erreurs.
+GuessWhat is a simple word guessing game made using React. The game involves guessing a word by entering one letter at a time. Each time a letter is guessed correctly, it is displayed in the word. The player wins if he manages to guess the word before making a maximum number of mistakes.
 
-Ce projet a été créé par TAMWA KAMGA BRANDON DUCLERC, également connu sous le pseudonyme BrandonIscoding, dans le cadre de son initiative "100 Projets 2024".
+## Features
 
-## Fonctionnalités
-
-- Saisie d'une lettre pour deviner le mot
-- Affichage du nombre d'erreurs restantes
-- Message de victoire ou de défaite
-- Bouton de réinitialisation pour recommencer le jeu
+- Enter a letter to guess the word
+- Display of the number of remaining errors
+- Victory or defeat message
+- Reset button to start the game again
 
 ## Installation
 
-1. Cloner le dépôt GitHub:
+1. Clone the GitHub repository:
    ```bash
    git clone https://github.com/BrandonIscoding/guess-the-words.git
    ```
 
-2. Installer les dépendances:
+2. Install dependencies:
    ```bash
    cd guess-the-words
    npm install
    ```
 
-3. Lancer l'application:
+3. Launch the application:
    ```bash
    npm start
    ```
 
-## Technologies utilisées
+## Technologies used
 
 - React
 - HTML
 - CSS
 
-## Captures d'écran
+## Screenshot
 
 ![Capture d'écran 1 du jeu GuessWhat](React-App1.png)
 ![Capture d'écran 2 du jeu GuessWhat](React-App2.png)
 ![Capture d'écran 3 du jeu GuessWhat](React-App3.png)
 
-## Auteur
+## Author
+This project was created by TAMWA KAMGA BRANDON DUCLERC, also known under the pseudonym BrandonIscoding, as part of his "100 Projects 2024" initiative.
 
-TAMWA KAMGA BRANDON DUCLERC (BrandonIscoding)
+For any questions or issues, please contact us at [brandoniscodin4g@email.com](mailto:brandoniscodin4@gmail.com@email.com).
+
 
 ## License
 
-Ce projet est opensource, et ouverte a toute contribution!!!
+This project is opensource, and open to any contribution!!!
